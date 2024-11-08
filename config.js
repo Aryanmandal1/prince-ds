@@ -125,11 +125,11 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️KOUSHIK-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️ARYAN-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = process.env.PACK_NAME
 global.author = 'Prince♥️' 
 global.princeig = '' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v1'
+global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = ''
